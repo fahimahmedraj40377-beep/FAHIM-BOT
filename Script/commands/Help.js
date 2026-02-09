@@ -43,7 +43,7 @@ module.exports.languages = {
 
 // 🔹 এখানে আপনার ফটো Imgur লিংক করে বসাবেন ✅
 const helpImages = [
-    "https://i.imgur.com/Dq1w3Ns.jpeg", https://i.imgur.com/IFs8uSj.jpeg", https://i.imgur.com/SpkOQj0.jpeg", https://i.imgur.com/khIwIo3.jpeg", https://i.imgur.com/9wcV95H.jpeg", https://i.imgur.com/NgdnlRp.jpeg", https://i.imgur.com/uij9Us1.jpeg", https://i.imgur.com/VSOwRRO.jpeg", https://i.imgur.com/URhRBPi.jpeg", https://i.imgur.com/YZtWQSx.jpeg", https://i.imgur.com/ZLYUL5w.png", https://i.imgur.com/ArDPP2g.jpeg", https://i.imgur.com/fwvU6kC.png", https://i.imgur.com/YMESPIC.jpeg", https://i.imgur.com/xwmZsiu.jpeg", https://i.imgur.com/Aw1PYQq.jpeg", https://i.imgur.com/1ZjnuwN.jpeg"
+    "https://i.imgur.com/Dq1w3Ns.jpeg", "https://i.imgur.com/IFs8uSj.jpeg", "https://i.imgur.com/SpkOQj0.jpeg", "https://i.imgur.com/khIwIo3.jpeg", "https://i.imgur.com/9wcV95H.jpeg", "https://i.imgur.com/NgdnlRp.jpeg", "https://i.imgur.com/uij9Us1.jpeg", "https://i.imgur.com/VSOwRRO.jpeg", "https://i.imgur.com/URhRBPi.jpeg", "https://i.imgur.com/YZtWQSx.jpeg", "https://i.imgur.com/ZLYUL5w.png", "https://i.imgur.com/ArDPP2g.jpeg", "https://i.imgur.com/fwvU6kC.png", "https://i.imgur.com/YMESPIC.jpeg", "https://i.imgur.com/xwmZsiu.jpeg", "https://i.imgur.com/Aw1PYQq.jpeg", "https://i.imgur.com/1ZjnuwN.jpeg"
 ];
 
 
